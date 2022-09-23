@@ -1,0 +1,17 @@
+.fav-item {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+  }
+  
+  .item-name {
+    font-weight: bold;
+    margin-right: 15px;
+  }
+  
+  .item-color {
+    margin-left: 5px;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+  }

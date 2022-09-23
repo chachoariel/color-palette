@@ -1,0 +1,32 @@
+.palette-container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 25px;
+}
+.palette {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.color {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  color: #ffffff;
+}
+
+h3 {
+  margin-bottom: 10px;
+}
+
+.heart {
+  color: #fd5454;
+}
+
+.fav:hover {
+  cursor: pointer;
+}
