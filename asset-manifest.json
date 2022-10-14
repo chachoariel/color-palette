@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chachoariel/color-palette.git/static/css/main.b5efcf58.css",
+    "main.js": "/chachoariel/color-palette.git/static/js/main.8195a43a.js",
+    "static/js/787.0fb6e0a2.chunk.js": "/chachoariel/color-palette.git/static/js/787.0fb6e0a2.chunk.js",
+    "index.html": "/chachoariel/color-palette.git/index.html",
+    "main.b5efcf58.css.map": "/chachoariel/color-palette.git/static/css/main.b5efcf58.css.map",
+    "main.8195a43a.js.map": "/chachoariel/color-palette.git/static/js/main.8195a43a.js.map",
+    "787.0fb6e0a2.chunk.js.map": "/chachoariel/color-palette.git/static/js/787.0fb6e0a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5efcf58.css",
+    "static/js/main.8195a43a.js"
+  ]
+}
