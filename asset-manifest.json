@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/color-palette/static/css/main.b5efcf58.css",
-    "main.js": "/github.io/color-palette/static/js/main.571be7bb.js",
-    "static/js/787.0fb6e0a2.chunk.js": "/github.io/color-palette/static/js/787.0fb6e0a2.chunk.js",
-    "index.html": "/github.io/color-palette/index.html",
-    "main.b5efcf58.css.map": "/github.io/color-palette/static/css/main.b5efcf58.css.map",
-    "main.571be7bb.js.map": "/github.io/color-palette/static/js/main.571be7bb.js.map",
-    "787.0fb6e0a2.chunk.js.map": "/github.io/color-palette/static/js/787.0fb6e0a2.chunk.js.map"
+    "main.css": "/color-palette/static/css/main.b5efcf58.css",
+    "main.js": "/color-palette/static/js/main.26fbd72a.js",
+    "static/js/787.0fb6e0a2.chunk.js": "/color-palette/static/js/787.0fb6e0a2.chunk.js",
+    "index.html": "/color-palette/index.html",
+    "main.b5efcf58.css.map": "/color-palette/static/css/main.b5efcf58.css.map",
+    "main.26fbd72a.js.map": "/color-palette/static/js/main.26fbd72a.js.map",
+    "787.0fb6e0a2.chunk.js.map": "/color-palette/static/js/787.0fb6e0a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5efcf58.css",
-    "static/js/main.571be7bb.js"
+    "static/js/main.26fbd72a.js"
   ]
 }
